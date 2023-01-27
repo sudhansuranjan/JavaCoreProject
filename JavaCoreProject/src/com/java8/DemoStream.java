@@ -18,11 +18,7 @@ public class DemoStream {
 		
 		System.out.println(cofeesendingIno);
 		
-		
-		
-		//Sudhansu fetch//pull
-		
-		
+			
 
 	}
 
