@@ -15,6 +15,7 @@ public class Demo1 {
 	          
 	          arrlist.forEach((n)->{
 	          System.out.println(n);
+	          // test push
 	          }
 	          );
 	    
